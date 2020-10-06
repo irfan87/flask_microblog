@@ -147,3 +147,9 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/flask
+
+# hide .vscode
+.vscode
+
+# don't show .flaskenv as public
+.flaskenv
